@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">Screens</string>
     <string name="text_mainactivity">Hello world!</string>
+    <string name="text_secondactivity">Hello world again!</string>
 </resources>
