@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Screens</string>
+    <string name="app_name">Assignment_4</string>
     <string name="text_mainactivity">Hello world!</string>
     <string name="text_secondactivity">Hello world again!</string>
     <string name="button_mainactivity">Visit second activity.</string>
