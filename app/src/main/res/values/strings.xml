@@ -2,5 +2,6 @@
     <string name="app_name">Screens</string>
     <string name="text_mainactivity">Hello world!</string>
     <string name="text_secondactivity">Hello world again!</string>
-    <string name="button_secondactivity">Visit second activity.</string>
+    <string name="button_mainactivity">Visit second activity.</string>
+    <string name="button_secondactivity">Return to main activity</string>
 </resources>

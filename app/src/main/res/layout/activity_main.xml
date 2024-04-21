@@ -20,7 +20,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:id="@+id/button_mainactivity"
-        android:text="@string/button_secondactivity"
+        android:text="@string/button_mainactivity"
         app:layout_constraintTop_toBottomOf="@id/textview1"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintRight_toRightOf="parent"
