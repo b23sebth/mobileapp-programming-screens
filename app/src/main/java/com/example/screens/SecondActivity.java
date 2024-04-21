@@ -4,6 +4,7 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
+import android.widget.TextView;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -20,5 +21,10 @@ public class SecondActivity extends AppCompatActivity {
                 startActivity(intent);
             }
         });
+        Intent intent = getIntent();
+        String info_text = intent.getStringExtra("info");
+        TextView textView = findViewById(R.id.textview2);
+        textView.setText(info_text);
+
     }
 }
